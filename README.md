@@ -1,2 +1,2 @@
-# portfolio
-portfolio development
+# Portfolio
+Initial development of personal portfolio
